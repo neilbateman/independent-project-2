@@ -1,0 +1,26 @@
+.container {
+  padding: 50px;
+  padding-top: 10px;
+  background-color: lightblue;
+  color: white;
+  margin: auto;
+  width: 100%;
+  margin-top: 20px;
+
+}
+
+/*article {
+  color: white;
+  float: left;
+  padding: 0px;
+  width: 70%;
+  height: 300px;
+
+}
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
